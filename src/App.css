@@ -1,0 +1,20 @@
+/* 
+.app{
+  background-color: black;
+} */
+.App-body {
+ 
+  color: white;
+  padding: 40px;
+  font-family: Sans-Serif;
+  text-align: center;
+}
+.e{
+  align-items: center;
+  color: red;
+  align-content: center;
+  padding-left: 500PX;
+}
+backgroundImage{
+  height: 100%;
+}
